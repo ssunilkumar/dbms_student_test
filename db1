@@ -1,1 +1,2 @@
 create table test1(id integer, name usn)
+insert into test1 values(10,'sunil')
