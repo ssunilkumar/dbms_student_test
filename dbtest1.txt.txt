@@ -1,1 +1,2 @@
 create table test2(usn integer, name varhchar(10);
+insert into test1 values(123,'kumar')
